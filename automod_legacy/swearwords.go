@@ -33,7 +33,7 @@ var BuiltinSwearWords = map[string]bool{
 	"fellate":     true,
 	"fellatio":    true,
 	"felching":    true,
-	"fuck":        true,
+	"fuck":        false,
 	"fucks":       true,
 	"fudgepacker": true,
 	"genitals":    true,
